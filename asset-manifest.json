@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fb-pages/static/css/main.ddadf686.css",
+    "main.js": "/fb-pages/static/js/main.e1719c1d.js",
+    "index.html": "/fb-pages/index.html",
+    "main.ddadf686.css.map": "/fb-pages/static/css/main.ddadf686.css.map",
+    "main.e1719c1d.js.map": "/fb-pages/static/js/main.e1719c1d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddadf686.css",
+    "static/js/main.e1719c1d.js"
+  ]
+}
